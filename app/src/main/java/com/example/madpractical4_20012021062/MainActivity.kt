@@ -8,6 +8,7 @@ import android.provider.AlarmClock
 import android.provider.CallLog
 import android.provider.ContactsContract
 import android.provider.MediaStore
+import androidx.core.content.ContextCompat.startActivity
 import com.example.madpractical4_20012021062.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
